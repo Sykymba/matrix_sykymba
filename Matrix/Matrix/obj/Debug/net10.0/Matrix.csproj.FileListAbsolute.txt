@@ -1,0 +1,14 @@
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\bin\Debug\net10.0\Matrix.exe
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\bin\Debug\net10.0\Matrix.deps.json
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\bin\Debug\net10.0\Matrix.runtimeconfig.json
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\bin\Debug\net10.0\Matrix.dll
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\bin\Debug\net10.0\Matrix.pdb
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.AssemblyInfo.cs
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.dll
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\refint\Matrix.dll
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.pdb
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\Matrix.genruntimeconfig.cache
+C:\Users\Sykym\RiderProjects\Matrix\Matrix\obj\Debug\net10.0\ref\Matrix.dll
